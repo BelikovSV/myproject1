@@ -15,6 +15,7 @@ const Dialogs = () => {
                 <div>Hi</div>
                 <div>My name is...</div>
                 <div>How old are you?</div>
+				<div>New message</div>
             </div>
         </div>
     );
